@@ -1,1 +1,1 @@
-Soory,we are not open at your location.
+Sorry,we are not open at your location.
